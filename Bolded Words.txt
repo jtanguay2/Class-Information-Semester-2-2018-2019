@@ -1,0 +1,62 @@
+Chapter13:
+Know
+Relate
+Understand
+Persistent data
+Volatile data
+Cyber Law
+First Response
+Talkative Customers
+Rude Customers
+Angry Customers
+Knowledgeable Customers
+Inexperienced Customers
+Chapter 13 Beginning Vocabulary: Technical Knowledge Vs. Professional Knowledge
+Troubleshooting: technical knowledge & customer’s communication skills
+Communication Skills & Confidence
+Ethics & Personal Property: Legal, Privacy & Confidentiality
+Every technician (field, remote, and lab) has role in communication 
+Netiquette
+Credibility, Confidence, Calm , Pertinent 
+Cyber Rules and Laws, Open Source, Software License, Trademark & Copyright,
+Commercial Use
+Chain of Custody 
+Stress Management, Ergonomics
+System Administrator, Level 1 & Level 2 Technicians 
+SLA: Service Level Agreement, Company Policies
+Computer Forensics Expert
+First Response
+Persistent Data, Volatile Data
+
+Chapter1:
+Horizontal Case
+Full-Size Tower
+Compact Tower
+All-In-One
+Advanced Technology (AT)
+AT Extended (ATX)
+ATX12V
+EPS12V
+Central Processing Unit (CPU)
+Random Acces Memory (RAM)
+Expansion Slots
+Chipset
+Basic input/output system (BIOS) chip and Unified Extensible Firmware Interface (UEFI)
+NorthBridge
+SouthBridge
+Advanced Technology eXtended (ATX)
+Micro-ATX
+ITX
+Pin Grid Array (PGA)
+Land Grid Array (LGA)
+Reduced Instruction Set Computer (RISC)
+Reduced Instruction Set Computer (RISC)
+Sound adapter
+Network Interface Card (NIC)
+Wireless NIC
+Video adapter
+Capture card
+TV tuner card
+Universal Serial Bus (USB) port
+Thunderbolt card
+Redundant array of independent disks (RAID)
