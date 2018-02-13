@@ -1,0 +1,172 @@
+Case:
+Horizontal Case
+Full-Size Tower
+Compact Tower
+All-in-one
+
+Power Supplies:
+Advanced Technology (AT)
+AT Extended
+ATX12V
+EPS12V
+
+Motherboards:
+Central Processing Unit (CPU)
+Random Access Memory (RAM)
+Expansion slots
+Chipset
+Basic input/output system (BIOS) chip and Unified Extensible Firmware Interface (UEFI)
+NorthBridge
+SouthBridge
+Advanced Technology eXtended (ATX)
+Micro-ATX
+ITX
+
+CPU Architectures:
+Pin Grid Array (PGA)
+Land Grid Array (LGA)
+Reduced Instruction Set Computer (RISC)
+Complex Instruction Set Computer (CISC)
+
+Adapter Cards and Expansion Slots:
+Sound Adapter
+Network Interface Card (NIC)
+Wireless NIC
+Video adapter
+Capture card
+TV tuner card
+Universal Serial Bus (USB) port
+Thunderbolt card
+Redundant array of independent disks (RAID)
+
+Storage Devices:
+Hard Disk Drive (HDD)
+Solid State Drive (SSD)
+Hybrid Drive
+Optical Drive
+Tape Drive
+External Flash Drive
+
+Storage Device Interfaces and RAID:
+Parity - Detects data errors.
+Striping - Writes data across multiple drives.
+Mirroring - Stores duplicate data on a second drive.
+
+Video Ports and Cables:
+Digital Visual Interface (DVI)
+DisplayPort connector
+Mini DisplayPort
+HDMI
+Thunderbolt 
+VGA connector
+RCA connectors
+BNC connector
+Din-6
+
+Other Ports and Cables:
+PS/2 Ports
+Audio Ports
+Game port/MIDI
+Ethernet Network port
+USB Ports and Cables
+FireWire Ports and Cables
+eSATA Data Cables
+
+Adapters:
+Adapter
+Converter
+DVI to HDMI Adapter
+DVI to VGA Adapter
+USB A to USB B Adapter
+USB to Ethernet Adapter
+USB to PS/2 Adapter
+HDMI to VGA Converter
+ThunderBolt to DVI Converter
+
+Input Devices:
+Mice And Keyboards
+Touch Screens
+Joysticks and Gamepads
+Digital Cameras and Digital Video Cameras
+Scanners
+Digitizers
+Biometric Identification Devices
+Smart Card Readers
+
+Output Devices:
+LCD
+LED
+OLED
+Plasma
+DLP
+
+Monitor Characteristics:
+Pixel
+Dot Pixel
+Contrast Ratio
+Refresh Rate
+Frame Rate
+Interlace/Non-Interlace
+Horizontal, vertical, and color resolution
+Aspect ratio
+Native resolution
+Brightness - Intensity of the image
+Contrast - Ratio of light to dark
+Position - Vertical and horizontal location of the image on the screen
+Reset - Returns the monitor settings to factory settings
+
+Select Ram:
+Unbuffered memory – This is regular memory for computers. The computer reads data directly from the memory banks making it faster than buffered memory. However, there is a limit on the amount of RAM that can be installed.
+Buffered memory – This is specialized memory for servers and high-end workstations that use a large amount of RAM. These memory chips have a control chip built into the module. The control chip assists the memory controller in managing large quantities of RAM. Avoid buffered RAM for a gaming computer and the average workstation because the extra controller chip reduces RAM speed.
+
+Select Adapter Cards:
+Graphics Card
+Sound Card
+Storage Controllers
+I/O Cards
+NICs
+Capture Cards
+
+Select a Media Reader:
+Secure digital (SD)
+MicroSD
+MiniSD
+CompactFlash
+Memory Stick
+eMMC
+xD
+
+Thick and Thin Clients:
+Thick clients –Sometimes called fat clients, these are standard computers that we have discussed in this chapter. The computers have their own operating system, multitude of applications, and local storage. They are stand-alone systems and do not require a network connection to operate. All of the processing is performed locally on the computer.
+Thin clients –These are typically low-end network computers that rely on remote servers to perform all data processing. Thin clients require a network connection to a server and usually access resources using a web browser. However, the client can be a computer running thin client software or a small, dedicated terminal consisting of a monitor, keyboard, and mouse. Typically the clients do not have any internal storage and have very little local resources.
+
+CAx Workstation:
+Powerful processor - CAx software must make enormous amounts of calculations very quickly. It should perform fast rendering of 2D and 3D graphics. Fast, multicore processors are recommended in CAD workstations.
+High-end video card – These high resolution graphic cards perform fast rendering of 2D and 3D graphics using specialized GPU. Multiple monitors are desired, or even required, so that the user can work with code, 2D renderings, and 3D models all at the same time.
+RAM - Because of the high amount of data processed by a CAx workstation, RAM is very important. The more RAM that is installed, the more data the processor can calculate before needing to read from slower hard drives. Install the maximum amount memory supported by the motherboard and the operating system. The quantity and speed of the memory should exceed the minimums recommended by the CAx application.
+
+Audio and Video Editing Workstations:
+Specialized audio card - When recording music to a computer in a studio, multiple inputs from microphones and many outputs to effects equipment may be needed. An audio card capable of handling all these inputs and outputs is needed. Research different audio card manufacturers and understand the needs of your customer to install an audio card that will meet all the needs of a modern recording or mastering studio.
+Specialized video card - A video card that can handle high resolutions and multiple displays is necessary to combine and edit different video feeds and special effects in real time. You must understand the needs of the customer and research video cards to install a card that can handle the large amounts of information that come from modern cameras and effects equipment.
+Large, fast hard drives - Modern video cameras record in high resolution at fast frame rates. This translates into a large amount of data. Small hard drives will fill up very quickly, and slow hard drives will not be able to keep up with demands, even dropping frames at times. A large, fast hard drive such as SSD or SSHD drives are recommended to record high-end video without errors or missed frames. RAID levels such as 0 or 5, where striping is used, can help to increase read or write speeds.
+Dual monitors - When working with audio and video, two, three, or even more monitors can be very helpful to keep track of everything that is going on with multiple tracks, scenes, equipment, and software. HDMI, DisplayPort, and Thunderbolt cards are recommended while DVI is acceptable. If multiple monitors are required, specialized video cards are necessary when building an audio or video workstation.
+
+Virtualization Workstations:
+Maximum RAM - You need enough RAM to meet the requirements of each virtual environment and the host computer. A standard installation using only a few virtual machines might require as little as 1 GB of RAM to support a modern operating system such as Windows 8. With multiple users, supporting many virtual computers for each user, you might need to install 64 GB of RAM or more.
+CPU cores - Although a single core CPU can perform virtual computing, a CPU with additional cores increases speed and responsiveness when hosting multiple users and virtual machines. Some VDI installations use computers that have many CPUs with multiple cores.
+
+Gaming PCs:
+Powerful processor - Games require all the components in the computer to work together seamlessly. A powerful processor helps ensure that all the software and hardware data can be addressed in a timely fashion. A powerful processor can support high frame rates, 3D rendering, and high audio performance. Multicore processors help increase the responsiveness of hardware and software.
+High-end video card - Modern games use high resolutions and intricate detail. A video card that has a fast, specialized GPU and high amounts of fast video memory is necessary to ensure that the images displayed on the monitor are high quality, clear, and smooth. Some gaming machines use multiple video cards to produce high frame rates, or to be able to use multiple monitors.
+High-end sound card - Video games use multiple channels of high-quality sound to immerse the player in the games. A high-quality sound card increases the quality of sound above that of built-in sound on a computer. A dedicated sound card also helps improve overall performance by taking some of the demand off of the processor. Gamers often use specialized headphones and microphones to interact with other online gamers.
+High-end cooling - High-end components often produce more heat than standard components. More robust cooling hardware is often needed to make sure that the computer stays cool under heavy loads while playing advanced games. Oversized fans, heat sinks, and liquid cooling devices are often used to keep CPUs, GPUs, and RAM cool.
+Large amounts of fast RAM - Computer games require large amounts of memory to function. Video data, sound data, and all the information needed to play the game are constantly being accessed. The more RAM that the computer has, the less often the computer needs to read from storage drives. Faster RAM helps the processor keep all the data in sync, because the data that it needs to calculate can be retrieved when it is needed.
+Fast storage - 7200 RPM and 10000 RPM drives can retrieve data at a much faster rate than 5400 RPM hard drives. SSD and SSHD drives are more expensive, but they improve the performance of games dramatically.
+Gaming-specific hardware - Some games involve communicating with other players. A microphone is required to talk to them, and speakers or headphones are required to hear them. Find out what type of games your customer plays to determine if a microphone or headset is needed. Some games can be played in 3D. Special glasses and specific video cards may be required to use this feature. Some games benefit from the use of more than one monitor. Flight simulators, for example, can be configured to display cockpit images across two, three, or even more monitors at the same time.
+
+Home Theater PCs:
+Specialized cases and power supplies - Smaller motherboards can be used when building an HTPC so that the components can fit into a more compact form factor case. This small form factor looks like a component usually found in a home theater. Usually an HTPC case contains large fans that move more slowly and create less noise than those found in an average workstation. Power supplies that do not have fans can be used (depending on power requirements) to further reduce the amount of noise created by the HTPC. Some HTPC designs contain highly-efficient components and require no fans for cooling.
+Surround sound audio - Surround sound helps to bring the viewer into the video program. An HTPC can use surround sound from the motherboard when the chipset supports it, or a dedicated sound card can be installed to output high-quality surround sound to speakers, or to an additional amplifier for even better sound.
+HDMI output - The HDMI standard allows for transmission of high-definition video, surround sound, and data to televisions, media receivers, and projectors. HDMI can also control the functions of many devices that support control.
+TV tuners and cable cards - A tuner must be used for the HTPC to display television signals. A TV tuner converts analog and digital television signals into audio and video signals that the computer can use and store. Cable cards can be used to receive television signals from a cable company. A cable card is required for access to premium cable channels. Some cable cards can receive as many as six channels simultaneously.
+Specialized hard drive - Hard drives, that have low noise levels and have reduced power consumption are commonly known as audio/video drives (A/V). These drives are specially designed for long, steady recording and long life.

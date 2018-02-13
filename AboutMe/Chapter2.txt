@@ -1,0 +1,73 @@
+Chapter2:
+
+Fire Safety:
+P - Pull the pin.
+
+A - Aim at the base of the fire, not at the flames.
+
+S - Squeeze the lever.
+
+S - Sweep the nozzle from side to side.
+
+Power Fluctuation Types:
+Blackout - Complete loss of AC power. A blown fuse, damaged transformer, or downed power line can cause a blackout.
+Brownout - Reduced voltage level of AC power that lasts for a period of time. Brownouts occur when the power line voltage drops below 80 percent of the normal voltage level and when electrical circuits are overloaded.
+Noise - Interference from generators and lightning. Noise results in poor quality power, which can cause errors in a computer system.
+Spike - Sudden increase in voltage that lasts for a short period and exceeds 100 percent of the normal voltage on a line. Spikes can be caused by lightning strikes, but can also occur when the electrical system comes back on after a blackout.
+Power surge - Dramatic increase in voltage above the normal flow of electrical current. A power surge lasts for a few nanoseconds, or one-billionth of a second.
+
+Power Protection Devices:
+Surge suppressor - Helps protect against damage from surges and spikes. A surge suppressor diverts extra electrical voltage that is on the line to the ground.
+Uninterruptible power supply (UPS) - Helps protect against potential electrical power problems by supplying a consistent level of electrical power to a computer or other device. The battery is constantly recharging while the UPS is in use. The UPS provides a consistent quality of power when brownouts and blackouts occur. Many UPS devices can communicate directly with the computer operating system. This communication allows the UPS to safely shut down the computer and save data prior to the UPS losing all battery power.
+Standby power supply (SPS) - Helps protect against potential electrical power problems by providing a backup battery to supply power when the incoming voltage drops below the normal level. The battery is on standby during normal operation. When the voltage decreases, the battery provides DC power to a power inverter, which converts it to AC power for the computer. This device is not as reliable as a UPS because of the time it takes to switch over to the battery. If the switching device fails, the battery cannot supply power to the computer.
+
+Safety Data Sheet:
+Name of the material
+Physical properties of the material
+Hazardous ingredients contained in the material
+Reactivity data, such as fire and explosion data
+Procedures for spills and leaks
+Special precautions
+Health hazards
+Special protection requirements
+
+General Tool Use:
+Hardware tools are grouped into four categories:
+
+ESD tools
+Hand tools
+Cleaning tools
+Diagnostic tools
+
+Diagnostic Tools:
+
+Digital Multimeter:
+
+A digital multimeter, as shown in Figure 1, is a device that can take many types of measurements. It tests the integrity of circuits and the quality of electricity in computer components. A digital multimeter displays the information on an LCD or LED screen.
+
+Loopback Adapter:
+
+A loopback adapter, as shown in Figure 2, also called a loopback plug, tests the basic functionality of computer ports. The adapter is specific to the port that you want to test.
+
+Toner Generator and Probe:
+
+The toner generator and probe, as shown in Figure 3, is a two-part tool. The toner part is connected to a cable at one end using specific adapters. The toner generates a tone that travels the length of the cable. The probe part traces the cable. When the probe is in near proximity to the cable to which the toner is attached, the tone can be heard through a speaker in the probe.
+
+WiFi Analyzer:
+
+A Fluke WiFi Analyzer screen is shown in Figure 4. WiFi analyzers are mobile tools for auditing and troubleshooting wireless networks. Many WiFi analyzers are robust tools designed for enterprise network planning, security, compliance, and maintenance. But WiFi analyzers can also be used for smaller, wireless LANs. Technicians can see all available wireless networks in a given area, determine signal strengths, and position access points to adjust wireless coverage.
+
+Some WiFi analyzers can help troubleshoot a wireless network by detecting misconfigurations, access point failures, and RFI problems.
+
+External Hard Drive Enclosure:
+
+Although an external hard drive enclosure, as shown in Figure 5, is not a diagnostic tool, it is often used when diagnosing and repairing computers. The customer hard drive is placed into the external enclosure for inspection, diagnosis, and repair using a known-working computer. Backups can also be recorded to a drive in an external enclosure to prevent data corruption during a computer repair.
+
+Disk Management Tools:
+Disk Management - Initializes disks, creates partitions, and formats partitions (Figure 1).
+Format - Prepares a hard drive to store information (Figure 2).
+Scandisk or CHKDSK - Checks the integrity of files and folders on a hard drive by scanning the file system. These tools might also check the disk surface for physical errors (Figure 3).
+Optimize Drives – Previously known as Defrag, optimizes space on a hard drive to allow faster access to programs and data (Figure 4).
+Disk Cleanup - Clears space on a hard drive by searching for files that can be safely deleted (Figure 5).
+System File Checker (SFC) - Scans the operating system’s critical files and replaces files that are corrupt (Figure 6). Use the Windows 8 boot disk for troubleshooting and repairing corrupted files. The Windows 8 boot disk repairs Windows system files, restores damaged or lost files, and reinstalls the operating system. Third-party software tools are also available to assist in troubleshooting problems.
+
