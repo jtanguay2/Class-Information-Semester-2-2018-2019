@@ -71,3 +71,8 @@ Optimize Drives – Previously known as Defrag, optimizes space on a hard drive to
 Disk Cleanup - Clears space on a hard drive by searching for files that can be safely deleted (Figure 5).
 System File Checker (SFC) - Scans the operating system’s critical files and replaces files that are corrupt (Figure 6). Use the Windows 8 boot disk for troubleshooting and repairing corrupted files. The Windows 8 boot disk repairs Windows system files, restores damaged or lost files, and reinstalls the operating system. Third-party software tools are also available to assist in troubleshooting problems.
 
+Reference Tools:
+Notes - Make notes as you go through the troubleshooting and repair process. Refer to these notes to avoid repeating steps and to determine what needs to be done next.
+Journal - Include descriptions of the problem, possible solutions that have been tried to correct the problem, and the steps taken to repair the problem. Note any configuration changes made to the equipment and any replacement parts used in the repair. Your journal, along with your notes, can be valuable when you encounter similar situations in the future.
+History of repairs - Make a detailed list of problems and repairs, including the date, replacement parts, and customer information. The history allows a technician to determine what work has been performed on a specific computer in the past.
+
