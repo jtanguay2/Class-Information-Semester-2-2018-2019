@@ -1,0 +1,108 @@
+ISO - International Organization for Standardization
+	Application layer 7 - Chrome, Word, ETC
+	Presentation layer 6 - Almost same a socket
+	Session layer 5 - Almost same a socket
+	Transport layer 4 - Socket
+	Network layer 3 - IP 169.254.xxx.xxx
+	Data Link layer 2 - MAC, Interface Driver
+	Physical Layer 1 - NIC, Ethernet, WiFi
+
+ITU - 
+IETF - Internet Engineering Task Force (IETF)
+IANA - 
+ICANN - 
+IEEE - 802.3 standard is Ethernet and 802.11 standard is WiFi, Apple Talk has its own port number
+TIA - 
+
+TCP/IP 7.2.1.4 - 
+	Application Layer - DHS, BOOTP, DHCP, SMTP, POP, IMAP, FTP, TFTP, HTTP, HTTPS
+	Transport Layer - UDP, TCP
+	Internet Layer - IP, NAT, ICMP, OSPF, EIGRP
+	Network Access Layer - ARP, PPP, Ethernet, Interface Drivers
+
+Protocol Data Units - 
+	Data - The general term for the PDU used at the application layer
+		Email Data
+	Segment - Transport layer PDU
+		Data, Data, Data
+	Packet - Network layer PDU
+		Transport header, Data
+	Frame - Data link layer PDU
+		Network header, Transportheader, Data
+	Bits - A physical layer PDU used when physically transmitting data over the medium
+		Frame header, Network header, Transport header, Data, Frame trailer
+
+Comparing the OSI and TCP/IP Models - 
+	Application
+	Presentation - Application
+	Session
+
+	Transport - Transport
+
+	Network - Internet
+
+	Data Link
+	Physical - Network Access
+
+Ethernet Cable Standards - 
+	10BASE-T Category 3
+	100BASE-TX Category 5
+	1000BASE-T Category 5e, 6 - Supports upto 1GB/s 
+	10GBASE-T Category 6a, 7
+
+CSMA/CA - Carrier Sense Multiple Access with Collision Avoidance
+
+IEEE Standard - Maximum Speed        - Maxium Indoor Range - Frequency		 - Backwards Compatible
+802.11a		54 Mb/s			115ft (35m)		5 GHz			_
+802.11b		11 Mb/s			115ft (35m)		2.4 Ghz			_
+802.11g		54 Mb/s			125ft (38m)		2.4 Ghz			802.11b
+802.11n		600 Mb/s		230ft (70m)		2.4 Ghz & 5 Ghz		802.11a/b/g
+802.11ac	1.3 Gb/s (1300 Mb/s)	115ft (35m)		5 Ghz			802.11a/n
+
+Wireless Security - Authentication, Open, Shared Key
+	WEP - 
+	WPA - 
+	802.11i/WPA2 - Advanced Encryption Standard (AES)
+
+IPv4 Address Formatting - AND'ing, Subnet masks is for a host on a network, Wild Cards are part of access control lists and is related to the switch -- Binary Games
+
+192.168.xxx.xxx = Sums of binary exponent 2x
+
+3 ways to represent binary - Class A B C, Subnet MAsk, Prefix
+
+255.0.0.0, 255.255.0.0, 255.255.255.0 are refered to as Classful Subnet Masks
+
+255.0.255.0 is refered to as a classless Subnet Masks
+
+Classful = Wasted
+classless = Less wasted
+
+0000:0000:0000 = :: it has 3 bytes of zeros
+0000 = has 1 byte of zeros
+ff02:0000:0000:0000:0000:0000:0000:0001 = ff02::0001
+2001:0db8:0000:1111:0000:0000:0000:0200 = 2001:db8:0:1111:0:0:0:0200
+
+ICMP - Internet Control Message Protocol (ICMP)
+
+Ping to test for DNS - TraceRT/TraceRoute
+
+TCP - FTP, HTTP (www), SMTP (E-Mail), DNS
+UDP - DNS, TFTP, (NetFlix)
+
+Network Types - 
+	LAN - Local Area Network
+	WLAN - Wireless Local Area Network
+	PAN - Personal Area Network
+	MAN - Metropolitian Area Network
+	WAN - Wide Area Network
+	PTP - Peer-To-Peer Network
+
+CMD Commands - 
+ipconfig
+	ipconfig /release
+	ipconfig /renew
+	ipconfig /?
+	ipconfig /all
+	ipconfig /flushdns
+	ipconfig /registerdns
+	ipconfig /desplaydns
